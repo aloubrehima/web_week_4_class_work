@@ -1,0 +1,13 @@
+.selected {
+  text-decoration:dotted ;
+  font-style: italic;
+  color: grey;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 10px 10px 0px;
+    box-sizing: border-box;
+
+}
